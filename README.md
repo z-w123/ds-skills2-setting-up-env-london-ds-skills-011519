@@ -18,18 +18,23 @@ You will be able to:
 It’s going to take us a few minutes to get this all installed, but once we do, not only will you be set-up for working through the course, but you’ll also have a professional data science setup on your computer for any future courses or projects you want to work on!
 
 ## Computer Prerequisites
-There are many amazing computing devices available these days, but not all of them will allow you to do data science. We love smart phones, flip phones, chromebooks, tablets (including iPads), game boys, nintendo switches, roku’s and arduino’s. You’re not going to be able to complete this course on any of those devices - sorry.
+There are many amazing computing devices available these days, but not all of them will allow you to do data science. We love smart phones, flip phones, Chromebooks, tablets (including iPads), Game Boys, Nintendo Switches, Rokus and Arduinos. You’re not going to be able to complete this course on any of those devices - sorry.
 
-You’re going to need a computer (laptop or desktop). It should be running a recent (last 3-4 years) version of MacOS, Windows or Linux, and ideally it should have 8Gb of RAM and at least 20Gb free hard drive space. More information [here](https://flatironschool.com/wp-content/uploads/Student-Facing-Computer-Requirements.pdf):
+You’re going to need a computer (laptop or desktop). It should be running a recent (last 3-4 years) version of MacOS, Windows or Linux, and ideally it should have 8Gb of RAM and at least 20Gb free hard drive space. More information [here](https://flatironschool.com/wp-content/uploads/Student-Facing-Computer-Requirements.pdf).
 
-Assuming you have a computer that meets the requirements, let’s start by getting git Installed.
+Assuming you have a computer that meets the requirements, let’s start by getting git installed.
 
 ## Installing Git
 For each tool, we’ll provide installation instructions for the two most common operating systems - Windows and MacOS.
 
 
-## Windows
-Go [here](https://git-scm.com/download/win). Then double click on the downloaded exe file. It may open a window asking if you want to allow this application to make changes to your device. Just click “yes”. It will then open the installer. Click “next” to accept the license, and when you “select components” on the next screen make sure to keep the “Windows explorer integration” options checked.
+### Windows
+1. Go [here](https://git-scm.com/download/win). 
+1. Double click on the downloaded exe file.
+1. It may open a window asking if you want to allow this application to make changes to your device. Just click “yes”. 
+1. It will then open the installer. 
+1. Click “next” to accept the license.
+1. On the next screen, when you click "select components,” make sure to keep the “Windows explorer integration” options checked.
 
 Note - if there are any differences in the options provided in the installer you download, just accept the defaults - they’ll probably be fine!
 
@@ -68,7 +73,7 @@ Finally, click finish to complete setup
 
 ![screen-8](http://curriculum-content.s3.amazonaws.com/data-science/screen-8.png)
 
-#### MacOS
+### MacOS
 If you are comfortable with the command line and have installed [homebrew](https://brew.sh/), you should install git by running the command `brew install git` in a terminal window.  
 
 If you have no idea what the last paragraph meant, just go [here](https://git-scm.com/download/mac). Then double click on the downloaded dmg file and it will open a small finder window looking something like this (the exact name and version will change over time):
